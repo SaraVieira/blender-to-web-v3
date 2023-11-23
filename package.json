@@ -1,0 +1,35 @@
+{
+  "name": "the-nugget",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@heroicons/react": "2.0.18",
+    "@react-three/drei": "9.88.17",
+    "@react-three/fiber": "8.15.11",
+    "react": "18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.3.5",
+    "three": "0.158.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.17.2",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "typescript": "4.5.5",
+    "vite": "^5.0.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
