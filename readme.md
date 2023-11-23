@@ -1,1 +1,1 @@
-Sandbox: https://codesandbox.io/s/wizardly-zhukovsky-ukw29t
+Sandbox: https://codesandbox.io/p/github/SaraVieira/blender-to-web-v3/main
