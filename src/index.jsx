@@ -1,5 +1,4 @@
 import { createRoot } from "react-dom/client";
-import { create } from "zustand";
 import "./index.css";
 
 import App from "./App";
@@ -11,5 +10,5 @@ const root = createRoot(container);
 root.render(
   <ColorProvider>
     <App />
-  </ColorProvider>
+  </ColorProvider>,
 );
